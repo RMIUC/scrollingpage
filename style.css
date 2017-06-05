@@ -1,0 +1,216 @@
+body, html{
+	margin: 0;
+	padding: 0;
+	height:100%;
+	background-size:50%;
+}
+
+body {
+	display:block;
+}
+
+.story{
+	margin: 0 auto;
+	min-width: 980px;
+	overflow: auto;
+	width: 1080px;
+}
+
+#traveler{
+	background: url(images/3870-01.jpg) 50% 0 no-repeat fixed;
+  background-size:auto 110vh;
+	height: 120%;
+	padding:0;
+}
+
+#traveler .bg{
+	background: url(images/1.png) 50% 84.5% no-repeat fixed;
+  background-size: 135vh;
+	height: 120%;
+	padding: 0;
+	position: absolute;
+	width:inherit;
+	z-index: 10;
+}
+
+
+#third{
+	background: url(images/3870-02.jpg) 50% 0 no-repeat fixed;
+	background-size:auto 110vh;
+	height: 120%;
+	padding:0;
+}
+
+#third .bg{
+	background: url(images/2.png) 50% 78.5% no-repeat fixed;
+  background-size: 100vh;
+	height: 120%;
+	padding: 0;
+	position: absolute;
+	width:inherit;
+	z-index: 10;
+}
+
+#hipster{
+	background: url(images/3870-03.jpg) 50% 0 no-repeat fixed;
+  background-size:auto 110vh;
+	height: 120%;
+	padding:0;
+}
+
+#hipster .bg{
+	background: url(images/3.png) 50% 83% no-repeat fixed;
+  background-size: 75vh;
+	height: 120%;
+	padding: 0;
+	position: absolute;
+	width:inherit;
+	z-index: 10;
+}
+
+#fond4{
+	background: url(images/3870-04.jpg) 50% 0 no-repeat fixed;
+  background-size:auto 110vh;
+	height: 120%;
+	padding:0;
+}
+
+#fond4 .bg{
+	background: url(images/4.png) 50% 85% no-repeat fixed;
+  background-size: 140vh;
+	height: 120%;
+	padding: 0;
+	position: absolute;
+	width:inherit;
+	z-index: 10;
+}
+
+#fond5{
+	background: url(images/3870-05.jpg) 50% 0 no-repeat fixed;
+  background-size:auto 110vh;
+	height: 120%;
+	padding:0;
+}
+
+#fond5 .bg{
+	background: url(images/5.png) 50% 85% no-repeat fixed;
+  background-size: 120vh;
+	height: 120%;
+	padding: 0;
+	position: absolute;
+	width:inherit;
+	z-index: 10;
+}
+#fond6{
+	background: url(images/3870-06.jpg) 50% 0 no-repeat fixed;
+  background-size:auto 110vh;
+	height: 120%;
+	padding:0;
+}
+
+#fond6 .bg{
+	background: url(images/6.png) 50% 82% no-repeat fixed;
+  background-size: 100vh;
+	height: 120%;
+	padding: 0;
+	position: absolute;
+	width:inherit;
+	z-index: 10;
+}
+#fond7{
+	background: url(images/3870-07.jpg) 50% 0 no-repeat fixed;
+  background-size:auto 110vh;
+	height: 120%;
+	padding:0;
+}
+
+#fond7 .bg{
+	background: url(images/7.png) 50% 84% no-repeat fixed;
+  background-size: 180vh;
+	height: 120%;
+	padding: 0;
+	position: absolute;
+	width:inherit;
+	z-index: 10;
+}
+#fond8{
+	background: url(images/3870-08.jpg) 50% 0 no-repeat fixed;
+  background-size:auto 110vh;
+	height: 120%;
+	padding:0;
+}
+
+#fond8 .bg{
+	background: url(images/8.png) 50% 86% no-repeat fixed;
+  background-size: 170vh;
+	height: 120%;
+	padding: 0;
+	position: absolute;
+	width:inherit;
+	z-index: 10;
+}
+
+#fond9{
+	background: url(images/3870-09.jpg) 50% 0 no-repeat fixed;
+  background-size:auto 110vh;
+	height: 120%;
+	padding:0;
+}
+
+#fond9 .bg{
+	background: url(images/9.png) 50% 82% no-repeat fixed;
+  background-size: 120vh;
+	height: 120%;
+	padding: 0;
+	position: absolute;
+	width:inherit;
+	z-index: 10;
+}
+#fond10{
+	background: url(images/3870-10.jpg) 50% 0 no-repeat fixed;
+  background-size:auto 110vh;
+	height: 120%;
+	padding:0;
+}
+
+#fond10 .bg{
+	background: url(images/10.png) 50% 83% no-repeat fixed;
+  background-size: 75vh;
+	height: 120%;
+	padding: 0;
+	position: absolute;
+	width:inherit;
+	z-index: 10;
+}
+#fond11{
+	background: url(images/3870-12.jpg) 50% 0 no-repeat fixed;
+  background-size:auto 110vh;
+	height: 120%;
+	padding:0;
+}
+
+#fond11 .bg{
+	background: url(images/11.png) 50% 80% no-repeat fixed;
+  background-size: 90vh;
+	height: 120%;
+	padding: 0;
+	position: absolute;
+	width:inherit;
+	z-index: 10;
+}
+#fond12{
+	background: url(images/3870-12.jpg) 50% 0 no-repeat fixed;
+  background-size:auto 110vh;
+	height: 120%;
+	padding:0;
+}
+
+#fond12 .bg{
+	background: url(images/12.png) 50% 80.5% no-repeat fixed;
+  background-size: 100vh;
+	height: 120%;
+	padding: 0;
+	position: absolute;
+	width:inherit;
+	z-index: 10;
+}
