@@ -23,14 +23,14 @@ body {
 	width: 100%;
 }
 
-#traveler{
+#bg1{
 	background: url(images/3870-01.jpg) 50% 0 no-repeat fixed;
   background-size:auto 110vh;
 	height: 120%;
 	padding:0;
 }
 
-#traveler .bg{
+#bg1 .bg{
 	background: url(images/1.png) 50% 84.5% no-repeat fixed;
   background-size: 135vh;
 	height: 120%;
@@ -41,14 +41,14 @@ body {
 }
 
 
-#third{
+#bg2{
 	background: url(images/3870-02.jpg) 50% 0 no-repeat fixed;
 	background-size:auto 110vh;
 	height: 120%;
 	padding:0;
 }
 
-#third .bg{
+#bg2 .bg{
 	background: url(images/2.png) 50% 78.5% no-repeat fixed;
   background-size: 100vh;
 	height: 120%;
@@ -58,14 +58,14 @@ body {
 	z-index: 10;
 }
 
-#hipster{
+#bg3{
 	background: url(images/3870-03.jpg) 50% 0 no-repeat fixed;
   background-size:auto 110vh;
 	height: 120%;
 	padding:0;
 }
 
-#hipster .bg{
+#bg3 .bg{
 	background: url(images/3.png) 50% 83% no-repeat fixed;
   background-size: 75vh;
 	height: 120%;
@@ -75,14 +75,14 @@ body {
 	z-index: 10;
 }
 
-#fond4{
+#bg4{
 	background: url(images/3870-04.jpg) 50% 0 no-repeat fixed;
   background-size:auto 110vh;
 	height: 120%;
 	padding:0;
 }
 
-#fond4 .bg{
+#bg4 .bg{
 	background: url(images/4.png) 50% 85% no-repeat fixed;
   background-size: 140vh;
 	height: 120%;
@@ -92,14 +92,14 @@ body {
 	z-index: 10;
 }
 
-#fond5{
+#bg5{
 	background: url(images/3870-05.jpg) 50% 0 no-repeat fixed;
   background-size:auto 110vh;
 	height: 120%;
 	padding:0;
 }
 
-#fond5 .bg{
+#bg5 .bg{
 	background: url(images/5.png) 50% 85% no-repeat fixed;
   background-size: 120vh;
 	height: 120%;
@@ -108,14 +108,14 @@ body {
 	width:inherit;
 	z-index: 10;
 }
-#fond6{
+#bg6{
 	background: url(images/3870-06.jpg) 50% 0 no-repeat fixed;
   background-size:auto 110vh;
 	height: 120%;
 	padding:0;
 }
 
-#fond6 .bg{
+#bg6 .bg{
 	background: url(images/6.png) 50% 82% no-repeat fixed;
   background-size: 100vh;
 	height: 120%;
@@ -124,14 +124,14 @@ body {
 	width:inherit;
 	z-index: 10;
 }
-#fond7{
+#bg7{
 	background: url(images/3870-07.jpg) 50% 0 no-repeat fixed;
   background-size:auto 110vh;
 	height: 120%;
 	padding:0;
 }
 
-#fond7 .bg{
+#bg7 .bg{
 	background: url(images/7.png) 50% 84% no-repeat fixed;
   background-size: 180vh;
 	height: 120%;
@@ -140,14 +140,14 @@ body {
 	width:inherit;
 	z-index: 10;
 }
-#fond8{
+#bg8{
 	background: url(images/3870-08.jpg) 50% 0 no-repeat fixed;
   background-size:auto 110vh;
 	height: 120%;
 	padding:0;
 }
 
-#fond8 .bg{
+#bg8 .bg{
 	background: url(images/8.png) 50% 86% no-repeat fixed;
   background-size: 170vh;
 	height: 120%;
@@ -157,14 +157,14 @@ body {
 	z-index: 10;
 }
 
-#fond9{
+#bg9{
 	background: url(images/3870-09.jpg) 50% 0 no-repeat fixed;
   background-size:auto 110vh;
 	height: 120%;
 	padding:0;
 }
 
-#fond9 .bg{
+#bg9 .bg{
 	background: url(images/9.png) 50% 82% no-repeat fixed;
   background-size: 120vh;
 	height: 120%;
@@ -173,14 +173,14 @@ body {
 	width:inherit;
 	z-index: 10;
 }
-#fond10{
+#bg10{
 	background: url(images/3870-10.jpg) 50% 0 no-repeat fixed;
   background-size:auto 110vh;
 	height: 120%;
 	padding:0;
 }
 
-#fond10 .bg{
+#bg10 .bg{
 	background: url(images/10.png) 50% 83% no-repeat fixed;
   background-size: 75vh;
 	height: 120%;
@@ -189,14 +189,14 @@ body {
 	width:inherit;
 	z-index: 10;
 }
-#fond11{
+#bg11{
 	background: url(images/3870-11.jpg) 50% 0 no-repeat fixed;
   background-size:auto 110vh;
 	height: 120%;
 	padding:0;
 }
 
-#fond11 .bg{
+#bg11 .bg{
 	background: url(images/11.png) 50% 80% no-repeat fixed;
   background-size: 90vh;
 	height: 120%;
@@ -205,14 +205,14 @@ body {
 	width:inherit;
 	z-index: 10;
 }
-#fond12{
+#bg12{
 	background: url(images/3870-12.jpg) 50% 0 no-repeat fixed;
   background-size:auto 110vh;
 	height: 120%;
 	padding:0;
 }
 
-#fond12 .bg{
+#bg12 .bg{
 	background: url(images/12.png) 50% 80.5% no-repeat fixed;
   background-size: 100vh;
 	height: 120%;
