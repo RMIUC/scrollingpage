@@ -13,7 +13,7 @@ body {
 	margin: 0 auto;
 	min-width: 980px;
 	overflow: auto;
-	width: 1080px;
+	width: 100%;
 }
 
 #traveler{
@@ -183,7 +183,7 @@ body {
 	z-index: 10;
 }
 #fond11{
-	background: url(images/3870-12.jpg) 50% 0 no-repeat fixed;
+	background: url(images/3870-11.jpg) 50% 0 no-repeat fixed;
   background-size:auto 110vh;
 	height: 120%;
 	padding:0;
