@@ -9,6 +9,13 @@ body {
 	display:block;
 }
 
+.about {
+	position: fixed;
+	top:10%;
+	font-size: 5vh;
+	z-index: 11;
+}
+
 .story{
 	margin: 0 auto;
 	min-width: 980px;
